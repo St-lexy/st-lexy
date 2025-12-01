@@ -1,11 +1,44 @@
-# 👨‍💻 Amusan Olanrewaju Stephen | Machine Learning Engineer
+# 👨‍💻 Amusan Olanrewaju Stephen 
+## Machine Learning Engineer | Python Developer | AI Enthusiast
 
-Hi, I'm Olanrewaju Stephen, a Machine Learning enthusiast passionate about building intelligent systems and solving real-world problems with data. I'm currently undergoing Industrial Training at UCH's Software Department, focusing on Machine Learning, Data Science, and AI using Python.
+Hi, I'm Olanrewaju Stephen, a results-driven Machine Learning Engineer with hands-on expertise in Computer Vision, NLP, and Conversational AI. I build intelligent, production-ready ML systems, with model performance reaching 76–98% accuracy across real-world projects.
+
+I recently completed a 6-month Industrial Training at UCH (Ibadan) where I developed AI solutions for healthcare analytics, applying machine learning within privacy-sensitive environments.
 
 ---
+## 🔧 Core Skills
 
+**Programming**: Python, SQL
+**Frameworks**: TensorFlow, Keras, PyTorch, Scikit-learn
+**AI/ML**: Computer Vision, NLP, LLMs, Conversational AI
+**Deep Learning**: CNNs, Transfer Learning, Embeddings, Sequence Modeling
+**Tools**: Streamlit, Git/GitHub, Jupyter, Google Colab, Kaggle
+**Data Science**: Pandas, NumPy, Matplotlib, Seaborn, Data Wrangling, Model Evaluation
+
+---
 ## 🚀 Projects
 
+### 🏥 MediC – AI Medical Consultant Chatbot
+#### AutoGen • LLM • Streamlit • Groq API
+- Production-ready medical chatbot enabling safe, multi-turn conversations.
+- Integrated Microsoft AutoGen for agentic reasoning and contextual dialogue.
+- Added emergency detection, safety filters, and compliant medical disclaimers.
+- Built a modern Streamlit interface with chat history & quick actions.
+
+---
+### 📚 SkimLit – Medical Abstract Classifier
+#### NLP • Universal Sentence Encoder • Conv1D • TensorFlow
+- Achieved 80% accuracy on multi-label PubMed abstract classification.
+- Used hybrid USE + Conv1D architecture for semantic + sequential reasoning.
+- Processed 200k+ scientific sentences, automating literature triage.
+
+---
+### 🐕 Dog Breed Classification System
+#### Computer Vision • MobileNet • Transfer Learning
+- Trained a MobileNet CNN achieving 76% validation accuracy across 120 dog breeds.
+- Developed complete pipeline: preprocessing → augmentation → training → inference.
+
+---
 ### 🚗 Fine-Grained Car Classification (CARS196 Dataset)
 Fine-tuned a pre-trained EfficientNetB0 model to classify car models from the CARS196 dataset.
 - **Model**: EfficientNetB0 (Transfer Learning)
@@ -71,6 +104,10 @@ Regression project predicting user listening duration.
 ---
 
 ## 📫 Contact
-- 📧 Email: amusanolanrewaju420@gmail.com  
+- 📧 Email: amusanolanrewaju420@gmail.com
+- 🔗 GitHub: https://github.com/St-Lexy
+- 🔗 LinkedIn: https://linkedin.com/in/olanrewaju-amusan
+- 📱 Phone: +234 704 577 3561
+- 🔗 Portfolio: https://st-lexy.github.io
 - 📱 Phone: +234 704 577 3561  
 - 🔗 [LinkedIn](https://linkedin.com/in/olanrewaju-amusan)
