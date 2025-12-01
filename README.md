@@ -9,10 +9,15 @@ I recently completed a 6-month Industrial Training at UCH (Ibadan) where I devel
 ## 🔧 Core Skills
 
 **Programming**: Python, SQL
+
 **Frameworks**: TensorFlow, Keras, PyTorch, Scikit-learn
+
 **AI/ML**: Computer Vision, NLP, LLMs, Conversational AI
+
 **Deep Learning**: CNNs, Transfer Learning, Embeddings, Sequence Modeling
+
 **Tools**: Streamlit, Git/GitHub, Jupyter, Google Colab, Kaggle
+
 **Data Science**: Pandas, NumPy, Matplotlib, Seaborn, Data Wrangling, Model Evaluation
 
 ---
