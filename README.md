@@ -147,13 +147,6 @@ Regression model predicting user engagement metrics.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=St-Lexy&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=St-Lexy&layout=compact&theme=radical)
-
----
-
 ## 📫 Let's Connect
 
 - 📧 **Email:** amusanolanrewaju420@gmail.com
